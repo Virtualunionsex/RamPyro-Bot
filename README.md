@@ -26,6 +26,14 @@ When you have installed this userbot, it means you are ready with the risks.
 ## Okteto Deploy [Recomended if heroku not free]
   <a href="https://okteto.com">Click Here</a>
 
+### Tutorial Deploy To VPS
+
+-  ( `git clone https://github.com/ramadhani892/RamPyro-Bot` )
+-  ( `cd RamPyro-Bot` )
+-  isi vars yang diminta, kalo ga diminta ga usah diisi
+-  Buka SCRREN di VPS Anda ( `screen -S RamPyro-Bot` )
+-  Kemudian gunakan perintah ini untuk menjalankan Ram Ubot ( `python3 -m rams` ) Atau ( `bash start` )
+
 ## 🏷 Support
 
 - Follow Channel [@userbotch](https://t.me/userbotch) untuk info Update bot 
